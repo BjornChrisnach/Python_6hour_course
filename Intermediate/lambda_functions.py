@@ -1,4 +1,4 @@
-# lambda functions 5
+# lambda functions nr5
 # def func(x):
 #     func2 lambda x: x + 5
 #     return func2(x) + 85

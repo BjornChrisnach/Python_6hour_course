@@ -1,3 +1,4 @@
+# write files
 file = open("write_file.txt", "w")
 
 file.write("python\n")

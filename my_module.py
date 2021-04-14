@@ -1,3 +1,4 @@
+# my_module
 def myFunc(x):
     return x + 5
 

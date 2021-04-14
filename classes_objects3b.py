@@ -1,3 +1,4 @@
+# classes objects
 class Vehicle(object):
     def __init__(self, price, gas, color)
     self.price = price

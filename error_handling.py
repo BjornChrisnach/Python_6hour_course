@@ -1,3 +1,4 @@
+# Error handling
 text = input("Username: ")
 try:
     number = int(text)

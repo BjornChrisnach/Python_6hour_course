@@ -1,4 +1,4 @@
-# Optional Parameters tutorial 1
+# Optional Parameters tutorial nr1
 # def func(x=1):
 #    return x ** 2
 # def func(word, add=5, freq=1):

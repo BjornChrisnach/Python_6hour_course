@@ -1,3 +1,4 @@
+# Meta classes
 class Foo:
     def show(self):
         print("hi")

@@ -1,4 +1,6 @@
+# classes objects
 import turtle
+
 x = 5
 y = "string"
 f = 5.5

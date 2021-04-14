@@ -1,4 +1,4 @@
-# Static and Class Methods 2
+# Static and Class Methods nr2
 class Person(object):
     population = 50
 

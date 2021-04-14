@@ -1,3 +1,4 @@
+# Meta classes
 class Meta(type):
     def __new__(self, class_name, bases, attrs):
         print(attrs)

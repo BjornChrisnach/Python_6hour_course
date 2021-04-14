@@ -5,4 +5,4 @@ if string.count("_") > 0:
 # print(string.find("l"))
 # print(string.count("j"))
 else:
-    print("Good")
+    print("Good!")

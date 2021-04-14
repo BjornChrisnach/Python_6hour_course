@@ -1,3 +1,4 @@
+# global vs local
 var = 9
 loop = True
 

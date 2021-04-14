@@ -1,4 +1,4 @@
-# map function 3
+# map function nr3
 li = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 

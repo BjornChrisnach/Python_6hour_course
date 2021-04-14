@@ -1,3 +1,4 @@
+# read files
 file = open("file.txt", "r")
 f = file.readlines()
 

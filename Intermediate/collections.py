@@ -1,4 +1,4 @@
-# Collection 6
+# Collection nr6
 import collections
 from collections import Counter
 

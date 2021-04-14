@@ -1,3 +1,4 @@
+# optional programming
 def func(x=3, text="2"):
     print(x)
     if text == "1":

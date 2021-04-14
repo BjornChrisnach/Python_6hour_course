@@ -1,4 +1,4 @@
-# Collections namedTuple 7
+# Collections namedTuple nr7
 import collections
 from collections import namedtuple
 
